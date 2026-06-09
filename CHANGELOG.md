@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/gemini-cli-extensions/dataproc/compare/0.1.0...0.1.1) (2026-06-09)
+
+
+### Features
+
+* **deps:** update dependency googleapis/mcp-toolbox to v1.2.0 ([#11](https://github.com/gemini-cli-extensions/dataproc/issues/11)) ([2c54651](https://github.com/gemini-cli-extensions/dataproc/commit/2c546511d415a09d23e91e4c533390629f60cce7))
+
 ## 0.1.0 (2026-04-17)
 
 
